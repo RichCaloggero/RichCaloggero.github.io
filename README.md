@@ -14,12 +14,12 @@ latest: COVID-19 clinical update #45 with Dr. Daniel Griffin
 ## Tech Ingredients
 - https://www.youtube.com/channel/UCVSHXNNBitaPd5lYz48--yg
 
-Not sure who this guy is, but he does all sorts of interesting projects in his home lab. He's definately a professor or something. He talks through everything in great detail. Extremely well done stuff!
+Not sure who this guy is, but he does all sorts of interesting projects in his home lab. He talks through everything in great detail. Extremely well done!
 
 ## Undecided with Matt Ferrell
 - https://www.youtube.com/channel/UCjtUS7-SZTi6pXjUbzGHQCg
 
-Random engineering stuff. In one of his latest ones, he talks about his experience with the Tesla solar panels and power wall.
+Random engineering stuff. In one of his latest, he talks about his experience with the Tesla solar panels and power wall.
 
 ## Steve Mould
 - https://www.youtube.com/channel/UCEIwxahdLz7bap-VDs9h35A
@@ -29,17 +29,17 @@ More interesting science demos. Again, very well explained.
 ## Just Have a Think
 - https://www.youtube.com/channel/UCRBwLPbXGsI2cJe9W1zfSjQ
 
-Lots of excellent energy related stuff. 
+Lots of excellent energy related content. 
 
 ## Plainly Difficult
 - https://www.youtube.com/channel/UCb0MyY46T9ZYOzDHkYnIoXg
 
-This guy is fascinating! He details all sorts of industrial acidents, many having to do with nuclear energy. Of course he discusses TMI etc, but all sorts of other accidents which have happened throughout the world.
+This guy is fascinating! He details all sorts of industrial accidents, many having to do with nuclear energy. 
 
 ## PBS Space Time
 - https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g
 
-Here is where to go if you want to learn about the universe: everything from quantum theory to black hole physics, and everything inbetween is discussed.
+Here is where to go if you want to learn about the universe:  from quantum theory to black hole physics, and everything inbetween is discussed.
 
 ## 3Blue1Brown
 - https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
