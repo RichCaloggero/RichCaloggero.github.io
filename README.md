@@ -1,4 +1,6 @@
-# Mostly engineering / science stuff
+YouTube channels I've been exploring during the Covid era!
+
+# Engineering / science stuff
 
 ## Vincent Racaniello
 - https://www.youtube.com/channel/UCyFgCoP4ovsHbt92vM4zN2A
