@@ -36,10 +36,6 @@ Lots of excellent energy related content.
 
 This guy is fascinating! He details all sorts of industrial accidents, many having to do with nuclear energy. 
 
-## PBS Space Time
-- https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g
-
-Here is where to go if you want to learn about the universe:  from quantum theory to black hole physics, and everything inbetween is discussed.
 
 ## 3Blue1Brown
 - https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw
@@ -50,6 +46,25 @@ The oddest name for a channel I've seen. This guy is a mathmetician and goes dee
 - https://www.youtube.com/channel/UCwpHKudUkP5tNgmMdexB3ow
 
 Ever wanted to know how to land a commercial aircraft, or how pilots deal with emergency situations? This guy is fascinating!
+
+
+## PBS Space Time
+- https://www.youtube.com/channel/UC7_gcs09iThXybpVgjHZ_7g
+
+Here is where to go if you want to learn about the universe:  from quantum theory to black hole physics, and everything inbetween is discussed.
+
+
+# Space
+
+## Scott manley
+- https://www.youtube.com/channel/UCxzC4EngIsMrPmbm6Nxvb-A
+
+Orbital mechanics, general space science, the latest info on current missions including Spacex's starship program; it's all here...
+
+## Everyday Astronaut
+- https://www.youtube.com/channel/UC6uKrU_WqJ1R2HMTY3LIx5Q
+
+In depth info about Spacex vehicles , and video of many launches and test missions.
 
 
 # Music-related
